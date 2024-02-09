@@ -111,7 +111,7 @@ body {
 	color:#885a2d;
 	font-size:12px;
 	position: absolute;
-	left:25px;
+	left:16px;
 	top:-8px;
 	padding: 0 2px;
 }
@@ -122,8 +122,8 @@ body {
 
 .total{
 	display: flex;
-	justify-content: center;
-	align-content: center;
+	justify-items: center;
+	align-items: center;
 	flex-direction: column;
 }
 .total-table{
