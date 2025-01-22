@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: 185.27.134.11
-        username: if0_38153464
+        username: if0_38150315
         password: ${{ secrets.ftp_password }}
-        server-dir: './alok.html-5.me/htdocs/projects/'
+        server-dir: './'
