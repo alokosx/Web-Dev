@@ -14,4 +14,4 @@ jobs:
         server: 185.27.134.11
         username: if0_38150315
         password: ${{ secrets.ftp_password }}
-        local-dir: ./alok.html-5.me/htdocs/works/
+        local-dir: ./
